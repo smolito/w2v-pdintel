@@ -1,8 +1,7 @@
 PD_intelligibilityData/
 imgs_features/
-testData/
-_transcripts
-_assets
+_transcripts/
+_assets/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
