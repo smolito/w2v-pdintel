@@ -163,7 +163,7 @@ for folder in os.listdir(os.path.join(FOLDERS_ROOT)):
 
             one_file_time = time.time()
             one_file_time = one_file_time - one_file_time_start
-            print(file + " was done in " + str(round(one_file_time, 2)) + "s")
+            print("file was done in " + str(round(one_file_time, 2)) + "s")
 
     print("folder finished in " + str(round(time.time() - folder_time, 2)) + "s")
 
